@@ -1,2 +1,2 @@
 # Automation
-Useful automation scripts
+Automate your life, as all coders should !
